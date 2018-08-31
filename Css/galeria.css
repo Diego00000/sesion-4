@@ -1,0 +1,17 @@
+div{
+	float: left;
+	display: block;
+	height: 120px;
+	width:120px;
+	border: 1px solid black;
+	margin: 5px;
+	
+	
+	
+}
+div img{
+	height: 110px;
+	width: 110px;
+	margin: 5px;
+    
+}
